@@ -6,3 +6,8 @@
 use iwconfig to see card's settings
 
 ![IWCONFIG](./images/IWCONFIG1.png) 
+
+Let's use aircrack-ng in most of the attacks.
+
+![aircrack](./images/aircrack.png)
+
