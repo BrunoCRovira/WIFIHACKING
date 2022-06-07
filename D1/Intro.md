@@ -9,5 +9,5 @@ use iwconfig to see card's settings
 
 Let's use aircrack-ng in most of the attacks.
 
-![aircrack](./images/aircrack.png)
+![aircrack](./images/aircrak.png)
 
