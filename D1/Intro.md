@@ -5,4 +5,4 @@
 
 use iwconfig to see card's settings
 
-![IWCONFIG](/D1/IWCONFIG.png) 
+![IWCONFIG](./images/IWCONFIG1.png) 
